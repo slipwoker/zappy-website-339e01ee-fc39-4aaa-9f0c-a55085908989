@@ -1,6 +1,4 @@
-# עיר החול — Generative Engine Optimization Map
-
-> A הוצאה לאור / ספרות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,18 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About עיר החול
-עיר החול is a business in the הוצאה לאור / ספרות industry.
-
-## Target Audience
-- חובבי ספרות
-- קוראים עירוניים
-- חברי מועדוני קריאה
-- מקצוענים צעירים
-
-## Industry
-הוצאה לאור / ספרות
-
+## About Business
 ---
 
 # Additional Resources
