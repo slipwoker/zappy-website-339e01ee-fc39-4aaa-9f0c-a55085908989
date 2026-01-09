@@ -1,60 +1,47 @@
-# עיר החול — Generative Engine Optimization Map
-
-> A הוצאה לאור / ספרות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com
+https://ir-hachol.zappy5.app
 גלו ספר מתח סוחף שישנה את חווית הקריאה שלכם. עיר החול מציעה ספרות איכותית לחובבי קריאה.
 
 ### הספרים שלנו
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/books
+https://ir-hachol.zappy5.app/books
 צפו בכל הספרים המומלצים שלנו - ספרי מתח סוחפים, רומנטיקה ועלילות חזקות. גלו את הספר הבא שלכם.
 
 ### אודות
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/about
+https://ir-hachol.zappy5.app/about
 הכירו את עיר החול - הוצאה לאור המתמחה בספר מתח סוחף, רומנטיקה ועלילות חזקות. הסיפור שלנו והערכים שלנו.
 
 ### צור קשר
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/contact
+https://ir-hachol.zappy5.app/contact
 צרו קשר עם עיר החול לפרטים נוספים על הספרים שלנו, הזמנות והמלצות אישיות. נשמח לעזור לכם למצוא את הספר המושלם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/privacy
+https://ir-hachol.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/terms
+https://ir-hachol.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/accessibility
+https://ir-hachol.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About עיר החול
-עיר החול is a business in the הוצאה לאור / ספרות industry.
-
-## Target Audience
-- חובבי ספרות
-- קוראים עירוניים
-- חברי מועדוני קריאה
-- מקצוענים צעירים
-
-## Industry
-הוצאה לאור / ספרות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-339e01ee-fc39-4aaa-9f0c.onrender.com/robots.txt
+- **Sitemap**: https://ir-hachol.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ir-hachol.zappy5.app/robots.txt
