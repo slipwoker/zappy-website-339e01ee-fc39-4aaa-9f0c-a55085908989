@@ -1,47 +1,60 @@
-# Business — Generative Engine Optimization Map
+# עיר החול — Generative Engine Optimization Map
+
+> A הוצאה לאור / ספרות business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ir-hachol.zappy5.app
 גלו ספר מתח סוחף שישנה את חווית הקריאה שלכם. עיר החול מציעה ספרות איכותית לחובבי קריאה.
 
 ### הספרים שלנו
-https://example.com/books
+https://ir-hachol.zappy5.app/books
 צפו בכל הספרים המומלצים שלנו - ספרי מתח סוחפים, רומנטיקה ועלילות חזקות. גלו את הספר הבא שלכם.
 
 ### אודות
-https://example.com/about
+https://ir-hachol.zappy5.app/about
 הכירו את עיר החול - הוצאה לאור המתמחה בספר מתח סוחף, רומנטיקה ועלילות חזקות. הסיפור שלנו והערכים שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://ir-hachol.zappy5.app/contact
 צרו קשר עם עיר החול לפרטים נוספים על הספרים שלנו, הזמנות והמלצות אישיות. נשמח לעזור לכם למצוא את הספר המושלם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ir-hachol.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ir-hachol.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ir-hachol.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About עיר החול
+עיר החול is a business in the הוצאה לאור / ספרות industry.
+
+## Target Audience
+- חובבי ספרות
+- קוראים עירוניים
+- חברי מועדוני קריאה
+- מקצוענים צעירים
+
+## Industry
+הוצאה לאור / ספרות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ir-hachol.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ir-hachol.zappy5.app/robots.txt
